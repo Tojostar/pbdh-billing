@@ -1,0 +1,24 @@
+{
+  "name": "PBDH Billing Log",
+  "short_name": "PBDH Billing",
+  "description": "Hospital consult billing log for Dr John Botomwito",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f3f6f7",
+  "theme_color": "#0f3b4c",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
